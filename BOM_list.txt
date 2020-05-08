@@ -1,0 +1,28 @@
+Partlist
+
+Exported from ADXL316-module.brd at 08/05/2020 17:02
+
+EAGLE Version 9.5.1 Copyright (c) 1988-2019 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value             Package          Library                Position (mil)        Orientation
+
+ACC      ADXL316           QFN24-4X4_MJK    _Accelerometers_Krasny (522 390)             R270
+C1       100nF             0805             _passive_Krasny        (675 519)             R0
+C2       33pF              0805             _passive_Krasny        (675 603)             R0
+C3       10nF              0805             _passive_Krasny        (420 141)             R180
+C4       10nF              0805             _passive_Krasny        (420 243)             R180
+C5       10nF              0805             _passive_Krasny        (339 342)             R180
+C6       1uF               0805             _passive_Krasny        (369 213)             MR270
+C7       1uF               0805             _passive_Krasny        (663 279)             MR270
+L1       2u2H              0805             _passive_Krasny        (450 372)             MR270
+R1       ns_0R             0805             _passive_Krasny        (369 372)             MR270
+R2       0R                0805             _passive_Krasny        (570 372)             MR90
+R3       1k                0805             _passive_Krasny        (450 645)             MR90
+R4       20k               0805             _passive_Krasny        (369 645)             MR90
+R5       1k                0805             _passive_Krasny        (663 561)             MR270
+R6       ns_0R             0805             _passive_Krasny        (483 621)             R0
+SV1                        MA04-2           con-lstb               (147.47244 392.15748) MR90
+T1       BC847             SOT23            transistor             (550 641)             MR180
+U1       ADP151AUJZ-3.3-R7 SOT95P280X100-5N _PowerSupply_Krasny    (504 207)             MR180
